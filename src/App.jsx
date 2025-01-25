@@ -1,5 +1,5 @@
 import React  from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { Helmet } from 'react-helmet';
 
 import './App.css';
@@ -19,9 +19,9 @@ function App() {
     <div  className=' w-full min-h-screen overflow-hidden p-0 m-0  sm:w-full md:w-full lg:w-full font-DM'>
     <Router>
           <Routes>
-            <Route path='/assignment-contact' element={<div>ASSIGNMENT PAGE</div>} />
-        <Route path='/' element={<Home />}></Route>
-        <Route path='/contact-us' element={<Contact />}></Route>
+            {/* <Route path='/' element={<div>ASSIGNMENT PAGE</div>} /> */}
+        <Route path='assignment-contact/' element={<Home />}></Route>
+        <Route path='assignment-contact/contact-us' element={<Contact />}></Route>
       </Routes>
 
     </Router>
