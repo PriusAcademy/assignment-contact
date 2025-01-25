@@ -18,7 +18,8 @@ function App() {
       </Helmet> 
     <div  className=' w-full min-h-screen overflow-hidden p-0 m-0  sm:w-full md:w-full lg:w-full font-DM'>
     <Router>
-      <Routes>
+          <Routes>
+            <Route path='/assignment-contact' element={<div>ASSIGNMENT PAGE</div>} />
         <Route path='/' element={<Home />}></Route>
         <Route path='/contact-us' element={<Contact />}></Route>
       </Routes>
