@@ -1,7 +1,7 @@
 {
   "name": "contactus",
   "homepage": "https://github.com/PriusAcademy/assignment-contact",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
