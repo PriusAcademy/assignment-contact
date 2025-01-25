@@ -42,7 +42,7 @@ const RecruitmentSection = () => {
         {/* Right Image */}
         <div className="lg:w-1/2 px-6 mt-8 lg:mt-0">
           <img
-            src="/images/about.jpg"
+            src="/assignment-contact/images/about.jpg"
             alt="Recruitment meeting"
             className="rounded shadow-lg"
           />

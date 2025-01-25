@@ -59,19 +59,19 @@ function Header() {
           <Link to="/">
           
             <img
-              src="/images/logo.png"
+              src="/assignment-contact/images/logo.png"
               alt="Large Logo"
               className="hidden lg:block w-56"
             />
           
             <img
-              src="/images/logo.png"
+              src="/assignment-contact/images/logo.png"
               alt="Medium Logo"
               className="hidden md:block lg:hidden w-36"
             />
        
             <img
-              src="/images/logo1.png"
+              src="/assignment-contact/images/logo1.png"
               alt="Small Logo"
               className="block md:hidden w-36"
             />

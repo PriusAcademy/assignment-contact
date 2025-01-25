@@ -23,7 +23,7 @@ function Ourservices() {
         <div className="w-[300px] h-[400px] md:w-[240px]  md:h-[300px] lg:w-[270px] lg:h-[370px]  md:p-5 lg:p-7  p-10  flex flex-col items-center justify-center  bg-transparent border border-[#04a7ee]  border-dashed   mt-5 group ">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center  mb-5">
             <img
-              src="/images/man.png"
+              src="/assignment-contact/images/man.png"
               alt=""
               className="size-10 lg:size-10 md:size-7"
             />
@@ -43,7 +43,7 @@ function Ourservices() {
         <div className="w-[300px] h-[400px] md:w-[240px] md:h-[300px] lg:w-[270px] lg:h-[370px] md:p-5 lg:p-7  p-10  flex flex-col items-center justify-center  bg-transparent border border-[#04a7ee]  border-dashed  duration-700  group mt-5">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center  mb-5">
             <img
-              src="/images/man.png"
+              src="/assignment-contact/images/man.png"
               alt=""
               className="size-10 lg:size-10 md:size-7"
             />
@@ -62,7 +62,7 @@ function Ourservices() {
         <div className="w-[300px] h-[400px] md:w-[240px] md:h-[300px] lg:w-[270px] lg:h-[370px] md:p-5 lg:p-7  p-10  flex flex-col items-center justify-center bg-transparent border border-[#04a7ee]  border-dashed  duration-700 mt-5 group">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center group  mb-5">
             <img
-              src="/images/Contact.png"
+              src="/assignment-contact/images/Contact.png"
               alt=""
               className="size-10 lg:size-10 md:size-7"
             />
@@ -81,7 +81,7 @@ function Ourservices() {
         <div className="w-[300px] h-[400px] md:w-[240px] md:h-[300px] lg:w-[270px] lg:h-[370px] md:p-5 lg:p-7  p-10  flex flex-col items-center justify-center  bg-transparent border border-[#04a7ee]  border-dashed  duration-700 group  mt-5">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center mb-8">
             <img
-              src="/images/services.png"
+              src="/assignment-contact/images/services.png"
               alt=""
               className="size-10 lg:size-10 md:size-7"
             />

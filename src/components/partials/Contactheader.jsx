@@ -6,7 +6,7 @@ function Contactheader() {
       <div
         className="bg-cover bg-center md:bg-cover  lg:w-full md:w-full w-full  h-[250px] md:h-[350px] lg:h-[600px]"
         style={{
-          backgroundImage: "url('/images/background1.jpg')",
+          backgroundImage: "url('/assignment-contact/images/background1.jpg')",
         }}
       >
         <div className="absolute lg:top-2/3 top-28 md:top-2/4  md:left-12 left-5 lg:left-24">

@@ -38,7 +38,7 @@ function GetInTouch() {
             className="flex items-center space-x-2 mb-3"
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/phone-call.png" alt="" className="size-4" />
+              <img src="/assignment-contact/images/phone-call.png" alt="" className="size-4" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm font-medium">+91 79040 99692</p>
           </a>
@@ -47,7 +47,7 @@ function GetInTouch() {
             className="flex items-center space-x-2 "
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/email.png" alt="" className="size-5" />
+              <img src="/assignment-contact/images/email.png" alt="" className="size-5" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm  font-medium">sales@priusitservices.com</p>
           </a>
@@ -55,7 +55,7 @@ function GetInTouch() {
 
         <div className="w-[300px] h-[400px] md:w-[235px] md:h-[350px] lg:w-[350px] lg:h-[450px]  md:p-5 lg:p-10 p-5 flex flex-col items-center justify-center rounded-lg bg-transparent border border-[#04a7ee]  border-dashed hover:bg-[#04a7ee] group duration-700 mt-5 ">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center group-hover:bg-white group-hover:border-none mb-5">
-          <img src="/images/services.png" alt="" className="size-10 lg:size-10 md:size-7"/>
+          <img src="/assignment-contact/images/services.png" alt="" className="size-10 lg:size-10 md:size-7"/>
           </div>
 
           <h2 className="font-semibold lg:text-2xl md:text-xl text-2xl text-center text-[#0c3a85] group-hover:text-white md:mb-5 mb-2">
@@ -70,7 +70,7 @@ function GetInTouch() {
             className="flex items-center space-x-2 mb-3"
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/phone-call.png" alt="" className="size-4" />
+              <img src="/assignment-contact/images/phone-call.png" alt="" className="size-4" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm  font-medium">+91 79040 99692</p>
           </a>
@@ -79,14 +79,14 @@ function GetInTouch() {
             className="flex items-center space-x-2"
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/email.png" alt="" className="size-5" />
+              <img src="/assignment-contact/images/email.png" alt="" className="size-5" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm  font-medium">info@priusitservices.com</p>
           </a>
         </div>
         <div className="w-[300px] h-[400px] md:w-[235px] md:h-[350px] lg:w-[350px] lg:h-[470px] lg:p-10  md:p-5  p-5 flex flex-col items-center justify-center rounded-lg bg-transparent border border-[#04a7ee]  border-dashed hover:bg-[#04a7ee] group duration-700 mt-5">
           <div className="w-20 h-20 lg:w-20 lg:h-20 md:w-14 md:h-14 rounded-full border border-[#04a7ee]  border-dashed  flex items-center justify-center group-hover:bg-white group-hover:border-none  mb-5">
-            <img src="/images/man.png" alt="" className="size-10 lg:size-10 md:size-7"/>
+            <img src="/assignment-contact/images/man.png" alt="" className="size-10 lg:size-10 md:size-7"/>
           </div>
 
           <h2 className="font-semibold lg:text-2xl md:text-xl text-2xl text-center text-[#0c3a85] group-hover:text-white lg:mb-5 md:mb-5 mb-2">
@@ -102,7 +102,7 @@ function GetInTouch() {
             className="flex items-center space-x-2 mb-3"
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/phone-call.png" alt="" className="size-4" />
+              <img src="/assignment-contact/images/phone-call.png" alt="" className="size-4" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm  font-medium">+91 79040 99692</p>
           </a>
@@ -111,7 +111,7 @@ function GetInTouch() {
             className="flex items-center space-x-2"
           >
             <div className="w-7 h-7 rounded-full border border-[#0c3a85] border-dashed   flex items-center justify-center group-hover:bg-white group-hover:border-none">
-              <img src="/images/email.png" alt="" className="size-5" />
+              <img src="/assignment-contact/images/email.png" alt="" className="size-5" />
             </div>
             <p className="text-[#0c3a85] text-base lg:text-base md:text-sm  font-medium">info@priusitservices.com</p>
           </a>

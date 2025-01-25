@@ -3,9 +3,9 @@ import React, { useState, useEffect } from "react";
 function Homeheader() {
  
   const slides = [
-    { image: "/images/slider-1.jpg" },
-    { image: "/images/slider-2.jpg" },
-    { image: "/images/slider-3.jpg" },
+    { image: "/assignment-contact/images/slider-1.jpg" },
+    { image: "/assignment-contact/images/slider-2.jpg" },
+    { image: "/assignment-contact/images/slider-3.jpg" },
   ];
 
   const [currentSlide, setCurrentSlide] = useState(0);

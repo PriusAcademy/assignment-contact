@@ -7,7 +7,7 @@ const Footer = () => {
    
         <div className="flex flex-col items-center  md:items-start ">
           <img
-            src="/images/logo1.png"
+            src="/assignment-contact/images/logo1.png"
             alt="Prius IT Services Logo"
             className="mb-4 md:w-96 w-64 "
           />
@@ -149,7 +149,7 @@ const Footer = () => {
           <p className="lg:text-sm md:text-xs text-sm flex flex-col items-start">
             <a href="tel:+918610773303" className="flex items-center">
               <img
-                src="/images/phone-blue.png" 
+                src="/assignment-contact/images/phone-blue.png" 
                 alt="Phone Icon"
                 className="w-4 h-4 mr-2 mt-1"
               />
@@ -168,7 +168,7 @@ const Footer = () => {
           <p className="lg:text-sm md:text-xs text-sm mt-4 flex flex-col items-start">
             <a href="mailto:info@priusitservices.com" className="flex items-center">
               <img
-                src="/images/email-blue.png"
+                src="/assignment-contact/images/email-blue.png"
                 alt="Email Icon"
                 className="w-4 h-4 mr-2 mt-1"
               />
@@ -191,7 +191,7 @@ const Footer = () => {
               className="flex items-center"
             >
               <img
-                src="/images/pin-blue.png" 
+                src="/assignment-contact/images/pin-blue.png" 
                 alt="Location Icon"
                 className="w-4 h-4 mr-2 mt-1"
               />
